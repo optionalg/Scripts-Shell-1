@@ -1,0 +1,7 @@
+This script is user for configure additional IPs in server Red-Hat or Fedora
+============================
+Example use :
+./cadastraip user ip mask
+============================
+Send email : cedugenio@yahoo.com.br
+
